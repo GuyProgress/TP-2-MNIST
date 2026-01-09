@@ -4,12 +4,14 @@ Brownian Motion Simulation Module
 This module provides functionality to generate and visualize Brownian motion paths.
 Demonstrates the Central Limit Theorem by showing convergence from uniform to normal distribution.
 """
-
+print("Loading browninan.py module...")
 import matplotlib.pyplot as plt
 import numpy as np
 from typing import List, Tuple
 from scipy import stats
 
+print("browninan.py module loaded successfully.")
+print("")
 
 class BrownianMotion:
     """
