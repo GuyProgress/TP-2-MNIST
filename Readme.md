@@ -1,9 +1,9 @@
-# TP2 & TP5 - Visualisation et Réduction de Dimension sur MNIST
+# TP2 & TP5 - Visualisation et Réduction de Dimension sur MNIST et jumeaux hybrides
 
 ## 📋 Table des matières
 - [Description](#description)
 - [TP2 : Réduction de Dimension](#tp2--réduction-de-dimension)
-- [TP5 : Auto-encodeurs](#tp5--auto-encodeurs)
+- [TP2 - P2 : Auto-encodeurs](#tp5--auto-encodeurs)
 - [Installation](#installation)
 - [Structure du Projet](#structure-du-projet)
 - [Utilisation](#utilisation)
